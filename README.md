@@ -7,6 +7,6 @@
 <h3>In your terminal:</h3>
 <ul>
   <li>cd Vue-form-practice</li>
-  <li>npm install</li
+  <li>npm install</li>
   <li>npm run serve</li>
 </ul>
