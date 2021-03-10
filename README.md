@@ -10,3 +10,5 @@
   <li>npm install</li>
   <li>npm run serve</li>
 </ul>
+
+<img src=""/>
