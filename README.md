@@ -1,11 +1,12 @@
 # Vue-form-practive
-Practicing how Vue components connect with each other.
+<p>Practicing how Vue components connect with each other</p>
 
 
 <h1> Assume that your Vue setting is done, then : </h1>
 
-In your terminal:
-
-cd Vue-form-practice
-npm install;
-npm run serve;
+<h3>In your terminal:</h3>
+<ul>
+  <li>cd Vue-form-practice</li>
+  <li>npm install</li
+  <li>npm run serve</li>
+</ul>
